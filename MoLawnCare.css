@@ -1,0 +1,69 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aquamarine;
+}
+.tophead{
+  background-color: gold;
+  text-align: center;
+}
+
+.mainbox {
+  width: 1000px;
+  height: 700px; /*will be removed later */
+  background-color: white;
+  border: 3px solid gray;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+/*  General classes for the page */
+.boldtext {
+  font-weight: 700;
+}
+
+.centertext {
+  text-align: center;
+}
+.righttext{
+  text-align: right;
+}
+
+/* Styles for the header section */
+
+    
+
+/* Styles for the nav section */
+
+
+/* Styles for the main / sections section */
+
+table{
+  border-collapse: collapse;
+  width: 500px;
+  margin: auto;
+}
+th, td{
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+  
+}
+th{
+  background-color: gold;
+  text-align: right;
+}
+
+
+/* Styles for the footer section */
+.bottomfoot{
+  background-color: gold;
+  font-weight: bold;
+  text-align: center;
+}
